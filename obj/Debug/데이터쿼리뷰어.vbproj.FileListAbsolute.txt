@@ -1,0 +1,507 @@
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\데이터쿼리뷰어.exe.config
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\데이터쿼리뷰어.exe
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\데이터쿼리뷰어.pdb
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\데이터쿼리뷰어.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.Data.v19.2.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.Utils.v19.2.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.XtraBars.v19.2.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\FarPoint.CalcEngine.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\FarPoint.Excel.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\FarPoint.Localization.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\FarPoint.PDF.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\FarPoint.PluginCalendar.WinForms.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\FarPoint.Win.Chart.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\FarPoint.Win.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\FarPoint.Win.Spread.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\GrapeCity.CalcEngine.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\GrapeCity.Spreadsheet.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\GrapeCity.Spreadsheet.Win.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\GrapeCity.Win.PluginInputMan.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\NeoEncryption.DLL
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.Office.v19.2.Core.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.Images.v19.2.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.Data.v19.2.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.Utils.v19.2.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.XtraBars.v19.2.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\FarPoint.CalcEngine.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\FarPoint.Excel.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\FarPoint.PDF.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\FarPoint.PluginCalendar.WinForms.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\FarPoint.Win.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\FarPoint.Win.Chart.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\FarPoint.Win.Spread.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\GrapeCity.CalcEngine.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\GrapeCity.Spreadsheet.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\GrapeCity.Win.PluginInputMan.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\DevExpress.Office.v19.2.Core.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\bin\x86\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\obj\Debug\데이터쿼리뷰어.frm자료보기.resources
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\obj\Debug\데이터쿼리뷰어.frmDEVFORM.resources
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\obj\Debug\데이터쿼리뷰어.frm메세지.resources
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\obj\Debug\데이터쿼리뷰어.mdi컨버젼챠트뷰어.resources
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\obj\Debug\데이터쿼리뷰어.Resources.resources
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\obj\Debug\데이터쿼리뷰어.vbproj.GenerateResource.cache
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\obj\Debug\데이터쿼리뷰어.exe.licenses
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\obj\Debug\데이터쿼리뷰어.vbproj.CoreCompileInputs.cache
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\obj\Debug\데이터쿼리뷰어.vbproj.CopyComplete
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\obj\Debug\데이터쿼리뷰어.exe
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\obj\Debug\데이터쿼리뷰어.xml
+D:\개발작업\데이터쿼리뷰어\빈프로젝트\obj\Debug\데이터쿼리뷰어.pdb
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\데이터쿼리뷰어.exe.config
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\데이터쿼리뷰어.exe
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\데이터쿼리뷰어.pdb
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\데이터쿼리뷰어.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Data.v19.2.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\FarPoint.CalcEngine.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\FarPoint.Excel.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\FarPoint.Localization.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\FarPoint.PDF.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\FarPoint.PluginCalendar.WinForms.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\FarPoint.Win.Chart.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\FarPoint.Win.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\FarPoint.Win.Spread.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\GrapeCity.CalcEngine.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\GrapeCity.Spreadsheet.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\GrapeCity.Spreadsheet.Win.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\GrapeCity.Win.PluginInputMan.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\NeoEncryption.DLL
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Images.v19.2.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Data.v19.2.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\FarPoint.CalcEngine.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\FarPoint.Excel.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\FarPoint.PDF.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\FarPoint.PluginCalendar.WinForms.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\FarPoint.Win.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\FarPoint.Win.Chart.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\FarPoint.Win.Spread.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\GrapeCity.CalcEngine.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\GrapeCity.Spreadsheet.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\GrapeCity.Win.PluginInputMan.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.vbproj.AssemblyReference.cache
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.frm자료보기.resources
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.frmDEVFORM.resources
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.frm메세지.resources
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.mdi컨버젼챠트뷰어.resources
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.Resources.resources
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.vbproj.GenerateResource.cache
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.exe.licenses
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.vbproj.CoreCompileInputs.cache
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.vbproj.CopyComplete
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.exe
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.xml
+C:\Users\KBJ\Desktop\데이터쿼리뷰어\변경\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.pdb
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\데이터쿼리뷰어.exe.config
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\데이터쿼리뷰어.exe
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\데이터쿼리뷰어.pdb
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\데이터쿼리뷰어.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Data.v19.2.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\FarPoint.CalcEngine.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\FarPoint.Excel.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\FarPoint.Localization.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\FarPoint.PDF.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\FarPoint.PluginCalendar.WinForms.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\FarPoint.Win.Chart.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\FarPoint.Win.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\FarPoint.Win.Spread.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\GrapeCity.CalcEngine.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\GrapeCity.Spreadsheet.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\GrapeCity.Spreadsheet.Win.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\GrapeCity.Win.PluginInputMan.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\NeoEncryption.DLL
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Images.v19.2.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Data.v19.2.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\FarPoint.CalcEngine.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\FarPoint.Excel.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\FarPoint.PDF.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\FarPoint.PluginCalendar.WinForms.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\FarPoint.Win.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\FarPoint.Win.Chart.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\FarPoint.Win.Spread.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\GrapeCity.CalcEngine.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\GrapeCity.Spreadsheet.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\GrapeCity.Win.PluginInputMan.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.vbproj.AssemblyReference.cache
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.frm자료보기.resources
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.frmDEVFORM.resources
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.frm메세지.resources
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.mdi컨버젼챠트뷰어.resources
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.Resources.resources
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.vbproj.GenerateResource.cache
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.exe.licenses
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.vbproj.CopyComplete
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.exe
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.pdb
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.frm쿼리추가.resources
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\obj\Debug\데이터쿼리뷰어.frm자료보기.lg.resources
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\bin\x86\Debug\lg\데이터쿼리뷰어.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어\obj\Debug\lg\데이터쿼리뷰어.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\데이터쿼리뷰어.exe.config
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\데이터쿼리뷰어.exe
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\데이터쿼리뷰어.pdb
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\데이터쿼리뷰어.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\lg\데이터쿼리뷰어.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.Data.v19.2.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\FarPoint.CalcEngine.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\FarPoint.Excel.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\FarPoint.Localization.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\FarPoint.PDF.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\FarPoint.PluginCalendar.WinForms.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\FarPoint.Win.Chart.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\FarPoint.Win.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\FarPoint.Win.Spread.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\GrapeCity.CalcEngine.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\GrapeCity.Spreadsheet.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\GrapeCity.Spreadsheet.Win.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\GrapeCity.Win.PluginInputMan.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\NeoEncryption.DLL
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.Images.v19.2.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.Data.v19.2.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\FarPoint.CalcEngine.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\FarPoint.Excel.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\FarPoint.PDF.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\FarPoint.PluginCalendar.WinForms.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\FarPoint.Win.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\FarPoint.Win.Chart.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\FarPoint.Win.Spread.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\GrapeCity.CalcEngine.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\GrapeCity.Spreadsheet.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\GrapeCity.Win.PluginInputMan.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\bin\x86\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\obj\Debug\데이터쿼리뷰어.vbproj.AssemblyReference.cache
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\obj\Debug\데이터쿼리뷰어.frm자료보기.resources
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\obj\Debug\데이터쿼리뷰어.frm쿼리추가.resources
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\obj\Debug\데이터쿼리뷰어.frmDEVFORM.resources
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\obj\Debug\데이터쿼리뷰어.frm메세지.resources
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\obj\Debug\데이터쿼리뷰어.mdi컨버젼챠트뷰어.resources
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\obj\Debug\데이터쿼리뷰어.Resources.resources
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\obj\Debug\데이터쿼리뷰어.frm자료보기.lg.resources
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\obj\Debug\데이터쿼리뷰어.vbproj.GenerateResource.cache
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\obj\Debug\데이터쿼리뷰어.exe.licenses
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\obj\Debug\데이터쿼리뷰어.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\obj\Debug\lg\데이터쿼리뷰어.resources.dll
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\obj\Debug\데이터쿼리뷰어.vbproj.CopyComplete
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\obj\Debug\데이터쿼리뷰어.exe
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\obj\Debug\데이터쿼리뷰어.xml
+C:\Users\admin\Downloads\데이터쿼리뷰어\데이터쿼리뷰어 - 복사본\obj\Debug\데이터쿼리뷰어.pdb
